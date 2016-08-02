@@ -69,3 +69,7 @@ It should install the module to either
 `~/.puppetlabs/etc/code/modules/ntp/manifests`
 ```
 
+It should look like:
+
+
+![Image of vim synatx](https://github.com/jjpryor/puppetvim/raw/master/vimsyntaxcheck.png
