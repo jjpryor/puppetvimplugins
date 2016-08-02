@@ -1,4 +1,4 @@
-# puppetvim
+# puppetvimplugins
 Useful and handy config &amp; plugins for Vim to enable puppet syntax and style
 checking from within Vim.
 
