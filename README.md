@@ -67,7 +67,6 @@ puppet module install puppetlabs-ntp
 It should install the module to either
 `/etc/puppetlabs/code/environments/production/modules/ntp/manifests` or
 `~/.puppetlabs/etc/code/modules/ntp/manifests`
-```
 
 It should look like:
 
