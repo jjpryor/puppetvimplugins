@@ -70,4 +70,4 @@ It should install the module to either
 
 It should look like:
 
-![Image of syntax](https://raw.githubusercontent.com/jjpryor/puppetvim/master/vimsyntaxcheck.png)
+![Image](../../blob/master/vimsyntaxcheck.png?raw=true)
