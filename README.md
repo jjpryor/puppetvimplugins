@@ -71,5 +71,4 @@ It should install the module to either
 
 It should look like:
 
-
-![Image of vim synatx](https://github.com/jjpryor/puppetvim/raw/master/vimsyntaxcheck.png)
+![Image of syntax](https://github.com/jjpryor//puppetvim/master/vimsyntaxcheck.png)
