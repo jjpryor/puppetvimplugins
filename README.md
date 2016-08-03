@@ -2,6 +2,11 @@
 Useful and handy config &amp; plugins for Vim to enable puppet syntax and style
 checking from within Vim.
 
+In the below screenshot, vim is using a handful of plugins to validate and style check
+our sample puppet code.
+
+![Image](../../blob/master/vimsyntaxcheck.png?raw=true)
+
 We will be using Vundle to install/manage the following Vim plugins:
 
 + https://github.com/vim-airline/vim-airline
@@ -67,7 +72,3 @@ puppet module install puppetlabs-ntp
 It should install the module to either
 `/etc/puppetlabs/code/environments/production/modules/ntp/manifests` or
 `~/.puppetlabs/etc/code/modules/ntp/manifests`
-
-It should look like:
-
-![Image](../../blob/master/vimsyntaxcheck.png?raw=true)
